@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="ExpLevel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExpLevel_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ExpLevel.jar">
+        <element id="module-output" name="ExpLevel" />
+      </element>
+    </root>
+  </artifact>
+</component>

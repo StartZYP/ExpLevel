@@ -1,0 +1,10 @@
+Msg: 您当前经验信息为{nowExp}/{ToExp}
+ConfigLevel:
+  0:
+    Exp: 100
+  1:
+    Exp: 300
+  2:
+    Exp: 400
+  3:
+    Exp: 600
